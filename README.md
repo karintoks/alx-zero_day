@@ -203,4 +203,5 @@ Repo:
 GitHub repository: alx-zero_day
 Directory: 0x03-git
 File: .gitignore
+.
     
